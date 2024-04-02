@@ -83,8 +83,8 @@ This project was developed with the following technologies:
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
 ```bash
-git clone https://github.com/felipeAguiarCode/react-native-bat-pass-generator.git
-$ cd react-native-bat-pass-generator
+git git@github.com:Alxdelira/pass-generate-app.git
+$ cd pass-generate-app
 $ npm install
 $ npm run start
 ```
