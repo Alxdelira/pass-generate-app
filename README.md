@@ -61,7 +61,7 @@
 
 <div align="center">
   <a href="#">
-      <img src=".github/assets/modelo.png" width="200" alt="preview" />
+      <img src="./assets/modelo.png" width="200" alt="preview" />
   </a>
 </div>
 
@@ -82,25 +82,27 @@ This project was developed with the following technologies:
 
 You'll need [Node.js](https://nodejs.org) installed on your computer in order to build this app.
 
-bash
+```bash
 git clone https://github.com/felipeAguiarCode/react-native-bat-pass-generator.git
 $ cd react-native-bat-pass-generator
 $ npm install
 $ npm run start
+```
 
 
 ## Usage
 
 🔧 Run the script
 
-bash
+```bash
 $ npm run start
+```
 
 
 Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/102405026?v=4"><br><sub>Alexandre Nogueira/sub>](https://github.com/Alxdelira) |
+| [<img width="100px"  src="https://avatars.githubusercontent.com/u/102405026?v=4"><br><sub>Alexandre Nogueira/sub>](https://github.com/Alxdelira) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](www.linkedin.com/in/alxdelira)                                             |
