@@ -101,6 +101,6 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img src="https://avatars3.githubusercontent.com/u/37452836?s=96&v=4"><br><sub>Felipe Aguiar</sub>](https://github.com/Alxdelira) |
+| [<img src="https://avatars.githubusercontent.com/u/102405026?v=4"><br><sub>Alexandre Nogueira/sub>](https://github.com/Alxdelira) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](www.linkedin.com/in/alxdelira)                                             |
