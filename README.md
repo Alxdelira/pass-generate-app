@@ -103,6 +103,6 @@ Runs the app in the development mode.<br/>
 
 ## Autor
 
-| [<img width="100px"  src="https://avatars.githubusercontent.com/u/102405026?v=4"><br><sub>Alexandre Nogueira/sub>](https://github.com/Alxdelira) |
+| [<img width="150px"  src="https://avatars.githubusercontent.com/u/102405026?v=4"><br><sub>Alexandre Nogueira</sub>](https://github.com/Alxdelira) |
 | :---------------------------------------------------------------------------------------------------------------------------------------: |
 |                                             [Linkedin](www.linkedin.com/in/alxdelira)                                             |
