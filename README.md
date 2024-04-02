@@ -18,17 +18,17 @@
     >
   -->
     <img 
-      alt="Made by Felipe Aguiar" 
-      src="https://img.shields.io/badge/made%20by-Felipe%20Aguiar-%20?color=6A57D5"
+      alt="Made by Alexandre Nogueira" 
+      src="https://img.shields.io/badge/made%20by-Alexandre%20Nogueira-%20?color=6A57D5"
     >
     <img 
       alt="Project top programing language" 
       src="https://img.shields.io/github/languages/top/Alxdelira/pass-generate-app?color=6A57D5"
     >
-    <img 
+    <!-- <img 
       alt="Repository size" 
       src="https://img.shields.io/github/repo-size/Alxdelira/pass-generate-app?color=6A57D5"
-    >
+    > -->
     <img 
       alt="GitHub license" 
       src="https://img.shields.io/github/license/Alxdelira/pass-generate-app?color=6A57D5"
